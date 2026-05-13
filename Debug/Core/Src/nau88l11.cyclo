@@ -1,0 +1,7 @@
+../Core/Src/nau88l11.c:25:20:nau_write	2
+../Core/Src/nau88l11.c:65:19:NAU88L11_Ping	1
+../Core/Src/nau88l11.c:81:19:nau_read	2
+../Core/Src/nau88l11.c:104:19:NAU88L11_InitMicPath	19
+../Core/Src/nau88l11.c:194:19:NAU88L11_MinimalTest	5
+../Core/Src/nau88l11.c:256:19:NAU88L11_StartRxDMA	1
+../Core/Src/nau88l11.c:274:6:HAL_I2S_RxHalfCpltCallback	1

@@ -1,0 +1,10 @@
+../Core/Src/main.c:72:6:SX1261_Init	1
+../Core/Src/main.c:292:6:SX1261_Send	1
+../Core/Src/main.c:324:5:main	4
+../Core/Src/main.c:428:6:SystemClock_Config	3
+../Core/Src/main.c:475:13:MX_I2C1_Init	2
+../Core/Src/main.c:509:13:MX_I2S2_Init	2
+../Core/Src/main.c:543:13:MX_SPI3_Init	2
+../Core/Src/main.c:579:13:MX_DMA_Init	1
+../Core/Src/main.c:597:13:MX_GPIO_Init	1
+../Core/Src/main.c:636:6:Error_Handler	1
